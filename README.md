@@ -6,6 +6,8 @@
 5. **Node.js** ([Download Node.js](https://nodejs.org/en))
 6. **Chocolatey** ([Install Chocolatey](https://chocolatey.org/install#individual))
 
+## Installation Steps
+
 1. Install Visual Studio Work Tools:
    ```bash
    choco upgrade -y visualstudio2019-workload-vctools
