@@ -1,3 +1,7 @@
+## About
+
+Planup is a task management app that uses GPT-4 API to generate personalized schedules for users. It is built upon React Native with Expo, Node.js Express, and MongoDB. Planup uses established time management techniques such as Pomodoro or Eisenhower matrix in order to help with discipline and productivity. The application addresses the growing need for effective task management tools in modern era with a lot of distractions. The app’s architecture emphasizes on security and ease of use through well thought of user interface and simplicity of configuration.
+
 ## Prerequisites:
 1. **Visual Studio 2019+**
 2. **Git**
